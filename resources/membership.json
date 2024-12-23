@@ -349,5 +349,13 @@
 		"name": "Handsome's Blog",
 		"description": "心若有所向往,何惧道阻且长",
 		"github_username": "acanyo"
+	},
+        "64": {
+		"domain": "www.imuu.cn",
+		"icon": "https://www.imuu.cn/icon.webp",
+		"name": "HanhaiXingchen",
+		"description": "Share warmth, and gain insights into the true essence of life.",
+		"github_username": "cnwangmiao"
 	}
+}
 }
