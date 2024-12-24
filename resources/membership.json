@@ -359,5 +359,12 @@
 		"name": "Kokona Blog",
 		"description": "发现有趣项目，分享实践经历",
 		"github_username": "kokona-shiki"
+	},
+        "65": {
+		"domain": "www.imuu.cn",
+		"icon": "https://www.imuu.cn/icon.webp",
+		"name": "HanhaiXingchen",
+		"description": "Share warmth, and gain insights into the true essence of life.",
+		"github_username": "cnwangmiao"
 	}
 }
